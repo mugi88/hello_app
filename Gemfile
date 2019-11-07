@@ -18,8 +18,8 @@ end
 # 開発環境だけに適用させる
 group :development do
   gem 'web-console',           '3.5.1'
-  gem 'listen',                '3.0.8'
-  gem 'spring',                '2.0.2'
+  gem 'listen',                '3.1.5'
+  gem 'spring',                '2.1.0'
   gem 'spring-watcher-listen', '2.0.1'
 end
 
